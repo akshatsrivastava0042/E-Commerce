@@ -1,1 +1,1 @@
-# E-Commerce
+Developed a clone for e-commerce website using Semantic HTML5 and Advanced CSS3. Implemented complex layouts like the Navigation Bar and Product Grids using CSS Flexbox and Grid for seamless responsiveness across devices.Achieved interactive elements (Dropdowns, Hover effects) using Pure CSS (Checkbox hack & pseudo-classes). Focused on pixel-perfect replication of Amazon’s design system, including typography and iconography
